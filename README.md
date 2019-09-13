@@ -15,7 +15,7 @@ It is a Chat Application which handles multiple client request and has tested fo
 ➺ Error handling when address Port/IP already in used
 ➺ Now second client no need to wait for first client to close by finishing its task.
 ➺ This server now handles n clients simultaneously.
-➺ Here concurrency is achieved  by creating a new child process which process e each new client while parent continues to accepting new connections.
+➺ Here concurrency is achieved by creating a new child process which process each new client while parent continues to accepting new connections.
 ```
 
 ## Main Technologies
